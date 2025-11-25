@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/logo.png" width="140" />
-</p>
 
 # 👨‍💻 Cybersecurity Engineering & Software Engineering Portfolio
 
