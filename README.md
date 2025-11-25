@@ -24,37 +24,30 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 ---
 
 ## 🛠️ Technical Skills & Expertise
+Here're the tools that I'd interested in using:
 
 ### **Cybersecurity**
 
-* Network Security, Web App Security
-* Penetration Testing (OWASP Top 10)
-* SIEM, Threat Detection & Incident Response
-* Kali Linux, Burp Suite, Wireshark
-* Cryptography & Secure Code Review
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" />
 </p>
 
+---
+
 ### **Software Development**
 
-* Languages: **Python, C#, JavaScript, Java**
-* <p>
+ <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-</p>
-* Frameworks: **.NET, React, Node.js**
-* Databases: **MySQL, MongoDB, SQL Server**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
 </p>
-* DevOps: **Git, Docker, CI/CD**
-* Web Development
+
+### **Web Development**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -88,7 +81,7 @@ A React + Node.js real-time security event monitoring system.
 
 ## 🧠 Learning and Growth
 
-*🌱 Current Learning Goals:
+🌱 Current Learning Goals:
 * Ethical Hacking & Pentesting
 * Network Security
 * Secure Software Development
@@ -96,9 +89,10 @@ A React + Node.js real-time security event monitoring system.
 
 ---
 
-🌍 Let's Connect!
+## 🌍 Let's Connect!
 
 Feel free to reach out or follow me! 😄
+
 LinkedIn | Twitter | Email
 
 
