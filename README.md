@@ -1,5 +1,8 @@
 
 # 👨‍💻 Cybersecurity Engineering & Software Engineering Portfolio
+
+---
+
 ## 👋 Hi, I'm Tharuka Gunawardana 
 
 Welcome to my GitHub profile! I’m a Cyber Security Engineering student who loves exploring ethical hacking, network defense, and secure system development. Still learning every day — and building cool things along the way! 🚀
@@ -46,6 +49,8 @@ Here're the tools that I'd interested in using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
 </p>
+
+---
 
 ### **Web Development**
 <p>
@@ -95,4 +100,5 @@ Feel free to reach out or follow me! 😄
 
 LinkedIn | Twitter | Email
 
+---
 
