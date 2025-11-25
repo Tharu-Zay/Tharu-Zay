@@ -3,11 +3,13 @@
 
 ---
 
+
 ## 👋 Hi, I'm Tharuka Gunawardana 
 
 Welcome to my GitHub profile! I’m a Cyber Security Engineering student who loves exploring ethical hacking, network defense, and secure system development. Still learning every day — and building cool things along the way! 🚀
 
 ---
+
 
 ## 🌟 About Me
 
@@ -33,6 +35,7 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 🔍 Vulnerability Assessment & Threat Analysis
 
 ---
+
 
 ## 🛠️ Technical Skills & Expertise
 
@@ -73,6 +76,7 @@ Here're the tools that I'd interested in using:
 
 ## 📂 Highlighted Cybersecurity & Software Engineering Projects
 
+
 ### 🔹 **1. Web Application Vulnerability Scanner**
 
 A Python-based tool that detects common vulnerabilities in websites.
@@ -91,7 +95,9 @@ A Python-based tool that detects common vulnerabilities in websites.
 
 A React + Node.js real-time security event monitoring system.
 
+
 ---
+
 
 ## 🧠 Learning and Growth
 
@@ -101,7 +107,9 @@ A React + Node.js real-time security event monitoring system.
 * Secure Software Development
 * GitHub Actions & Automation
 
+
 ---
+
 
 ## 🌍 Let's Connect!
 
