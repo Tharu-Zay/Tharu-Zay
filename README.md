@@ -11,22 +11,31 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 
 ## 🌟 About Me
 
-* 🎓 Completed Diploma in Information Technology
-* 🎓 Currently studying BTEC HND in Cyber Security at ESOFT Metro Campus – Gampaha
-* 🛡️ Main Field: Cyber Security Engineering
-* 🌐 Additional Focus: Networking & Software Engineering
-* 🌱 Always learning, always experimenting
+🎓 Completed Diploma in Information Technology
+
+🎓 Currently studying BTEC HND in Cyber Security at ESOFT Metro Campus – Gampaha
+  
+🛡️ Main Field: Cyber Security Engineering
+  
+🌐 Additional Focus: Networking & Software Engineering
+
+🌱 Always learning, always experimenting
 
 ### I am a passionate **Cybersecurity Practitioner** and **Software Developer** focused on building secure, efficient, and scalable systems. My work blends:
 
-* 🛡️ Cyber Defense & Ethical Hacking
-* 💻 Backend & Frontend Development
-* 🧠 Secure Software Engineering Principles
-* 🔍 Vulnerability Assessment & Threat Analysis
+
+🛡️ Cyber Defense & Ethical Hacking
+
+💻 Backend & Frontend Development
+
+🧠 Secure Software Engineering Principles
+
+🔍 Vulnerability Assessment & Threat Analysis
 
 ---
 
 ## 🛠️ Technical Skills & Expertise
+
 Here're the tools that I'd interested in using:
 
 ### **Cybersecurity**
