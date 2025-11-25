@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 ---
 
 
-## 🌟 About Me
+# 🌟 About Me
 
 🎓 Completed Diploma in Information Technology
 
@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 🌐 Additional Focus: Networking & Software Engineering
 
 🌱 Always learning, always experimenting
+
 
 ### I am a passionate **Cybersecurity Practitioner** and **Software Developer** focused on building secure, efficient, and scalable systems. My work blends:
 
@@ -72,34 +73,11 @@ Here're the tools that I'd interested in using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
 </p>
 
----
-
-## 📂 Highlighted Cybersecurity & Software Engineering Projects
-
-
-### 🔹 **1. Web Application Vulnerability Scanner**
-
-A Python-based tool that detects common vulnerabilities in websites.
-
-* Automated scanning
-* Reports weaknesses mapped to OWASP
-* CLI-based
-
-### 🔹 **2. Secure Login System (.NET/C#)**
-
-* Password hashing with bcrypt
-* JWT-based authentication
-* SQL injection–prevented backend
-
-### 🔹 **3. Threat Monitoring Dashboard**
-
-A React + Node.js real-time security event monitoring system.
-
 
 ---
 
 
-## 🧠 Learning and Growth
+# 🧠 Learning and Growth
 
 🌱 Current Learning Goals:
 * Ethical Hacking & Pentesting
@@ -111,7 +89,7 @@ A React + Node.js real-time security event monitoring system.
 ---
 
 
-## 🌍 Let's Connect!
+# 🌍 Let's Connect!
 
 Feel free to reach out or follow me! 😄
 
