@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a Cyber Security Engineering student who lov
 
 🎓 Completed Diploma in Information Technology
 
-🎓 Currently studying BTEC HND in Cyber Security at ESOFT Metro Campus – Gampaha
+🎓 Currently studying BTEC HND in Cyber Security at ESOFT UNI
   
 🛡️ Main Field: Cyber Security Engineering
   
