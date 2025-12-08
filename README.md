@@ -1,5 +1,5 @@
 
-# 👨‍💻 Cybersecurity Engineering & Software Engineering Portfolio
+# Cybersecurity Engineering & Software Engineering Portfolio 👨‍💻
 
 ---
 
